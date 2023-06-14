@@ -1,0 +1,18 @@
+.titulo{
+    color: blue;
+    background-color: aqua;
+    padding-top: 30px;
+    border: 30px solid black;
+}
+.caixa{
+    background-color: rgb(43, 226, 113);
+    border: 10px solid black;
+    margin-top: 10px solid black;
+}
+.link_sem_div{
+    background-color: blueviolet;
+    border: 5px solid black;
+}
+body{
+    background-color: darkkhaki;
+}
